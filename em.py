@@ -1,7 +1,7 @@
 """Funções da Etapa 4 (aprendizado probabilístico) — mesmas do notebook etapa4.ipynb.
 
 Tema: previsão de hospitalização por dengue (Sinan, Portal de Dados Abertos do SUS),
-com os mesmos 6 atributos e o mesmo treino/teste da Etapa 1 (ver utils1e2.py).
+com os mesmos 6 atributos e o mesmo treino/teste da Etapa 1 (ver utils.py).
 
 Conteúdo: MLE e MAP (Bernoulli), Naive Bayes categórico do zero e
 Naive Bayes + EM com variável oculta Z (mistura de K componentes por classe).
