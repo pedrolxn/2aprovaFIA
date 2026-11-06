@@ -11,5 +11,6 @@ Etapa 1: Dentro do Google Colab, importar o arquivo /DENGBR26.csv, o caminho par
 Etapa 2: Também dentro do Google Colab, importar o arquivo /DENGBR26.csv, o caminho para execução dos dados já foi feito, basta importar. No canto esquerdo do ambiente, no botão escrito "arquivo". Logo após, basta clicar no botão também na parte superior da tela escrito "Executar tudo", as saídas aparecem logo abaixo de cada código, alguns trechos estão com anotações e existem textos de apoio para cada tópico.
 
 Etapa 3: Dentro do Google Colab, abra o notebook etapa3.ipynb e importe o arquivo DENGBR26.csv, disponível dentro do ZIP deste repositório. O arquivo deve ficar no caminho /content/DENGBR26.csv. Depois, clique em "Ambiente de execução" e em "Executar tudo". O notebook utiliza os registros com hospitalização conhecida e realiza os cálculos da distribuição conjunta, probabilidades marginais e condicionais, regra da cadeia, Teorema de Bayes e independência condicional. Os resultados aparecem logo abaixo de cada código. Não é necessário importar o arquivo utils1e2.py para executar esta etapa.
+
 ** ADICIONEM O MANUAL DA PARTE DE VOCES **
 
