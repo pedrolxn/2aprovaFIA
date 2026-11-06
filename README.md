@@ -1,7 +1,7 @@
 ## COMO EXECUTAR CADA ETAPA:
 
 # Dados
-Fonte: Portal de Dados Abertos do SUS — https://dadosabertos.saude.gov.br/dataset/arboviroses-dengue (recurso de 2026, arquivo DENGBR26.csv).
+Fonte: Portal de Dados Abertos do SUS — https://dadosabertos.saude.gov.br/dataset/arboviroses-dengue (recurso de 2026, arquivo DENGBR26.csv).<br><br>
 Tamanho do arquivo usado: 470.451 registros, 121 colunas.
 
 OBS: Um arquivo .zip foi disponibilizado nesse repositório (DENGBR26.csv.zip), com o arquivo .csv podendo ser obtido dentro dele, use-o como entrada dentro do Google Colab.
